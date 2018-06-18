@@ -1,2 +1,2 @@
-# meu_portifolio
-Meu Portifólio
+# Meu Protifólio
+Thyago Dias
