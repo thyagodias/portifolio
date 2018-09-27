@@ -1,0 +1,21 @@
+{
+    "dir": "ltr",
+    "lang": "en",
+    "name": "Thyago Dias- Portfolio Online",
+    "scope": "/",
+    "display": "browser",
+    "start_url": "https://thyagodias.com/",
+    "short_name": "ThyagoDias",
+    "theme_color": "transparent",
+    "description": "Meu portifólio Online",
+    "orientation": "any",
+    "background_color": "transparent",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "/img/profile-thyago",
+            "sizes": "16x16 32x32 48x48"
+        }
+    ]
+}
